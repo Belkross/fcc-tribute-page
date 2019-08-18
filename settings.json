@@ -1,0 +1,44 @@
+{
+    "workbench.activityBar.visible": false,
+    "editor.renderControlCharacters": false,
+    "window.zoomLevel": 0,
+    "window.menuBarVisibility": "toggle",
+    "workbench.statusBar.visible": true,
+
+
+    "emmet.includeLanguages": {
+    "ejs": "html"
+    },
+    "editor.autoClosingQuotes": "never",
+    "editor.autoClosingBrackets": "never",
+    "time-tracker.showFromStartTime": true,
+    "time-tracker.showTotalWorkspaceTime": true,
+    "time-tracker.showTotalTime": true,
+    "breadcrumbs.enabled": false,
+    "time-tracker.saveWorkSessionBetweenStartups": true,
+    "simpleTimer.alarmMessage": "DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! DRING !!! ",
+    "pomodoro.workTime": 15,
+    "pomodoro.repeat": 3,
+    "translatorplus.targetLanguage": "fr",
+    "translatorplus.toLanguage": "fr",
+    "zenMode.centerLayout": false,
+    "zenMode.hideLineNumbers": false,
+    "zenMode.hideStatusBar": false,
+    "zenMode.hideTabs": false,
+    "dateTime.padDays": true,
+    "dateTime.showSeconds": true,
+    "dateTime.showDayOfMonth": true,
+    "dateTime.showDayOfWeek": true,
+    "dateTime.timeSeparatorOff": " :",
+    "dateTime.showMonth": true,
+    "editor.minimap.enabled": false,
+    "websearch.ac_engine": "Google",
+    "websearch.default_engine": "Google",
+    "liveServer.settings.useWebExt": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Material Theme High Contrast",
+
+ 
+}
+
